@@ -1,5 +1,7 @@
 # First_blazor_Azure_site
-My first Blazor Welcome world site applied to an azure app service
+My first Blazor Welcome world site applied to an azure app service.
+
+This is a very basic New World sample type app.I created and used to learn about Azure App Services. 
 
 # Version
 
